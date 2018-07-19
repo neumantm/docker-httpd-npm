@@ -17,4 +17,4 @@ To build your own image with specific versions use
 ## Versions
 The follwing versions are build and available from [`neumantm/httpd-npm`](https://hub.docker.com/r/neumantm/httpd-npm/) on docker hub:
 
- - `latest` or `2.4.34-v8.11.3` with Apache 4.2 and Node v8.11.3
+ - `latest` or `2.4.34-v8.11.3` with Apache 2.4.34 and Node v8.11.3
