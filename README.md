@@ -1,4 +1,6 @@
 # docker-httpd-npm
+[![Docker](http://dockeri.co/image/neumantm/httpd-npm)](https://hub.docker.com/r/neumantm/httpd-npm/)
+
 This repository contains some Dockerfiles for Apache [HTTPD](https://httpd.apache.org/) containers, 
 which include [node.js](https://nodejs.org/) and the [npm](https://www.npmjs.com/), the node package manager.
 
